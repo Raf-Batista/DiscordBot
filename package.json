@@ -1,0 +1,28 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.1.0",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.5",
+    "express": "^4.17.1",
+    "gm": "^1.23.1",
+    "ramda": "^0.26.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "simple-oauth2": "^2.4.0",
+    "throng": "^4.0.0",
+    "tmp": "^0.1.0"
+  }
+}

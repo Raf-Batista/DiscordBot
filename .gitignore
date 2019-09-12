@@ -1,0 +1,6 @@
+/api.txt
+.env 
+/commands/cod.js
+/commands/overwatch.js
+/node_modules
+/package-lock.json
