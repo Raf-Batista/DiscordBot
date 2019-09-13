@@ -33,18 +33,18 @@ Once you see 'Ready!' in the console you are all set.
 
 ## Commands 
 
-!search <game> 
+__!search <game>__ 
 
 # Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game
 
-!search the witcher 3 wild hunt 
+__!search the witcher 3 wild hunt__ 
 
 
 !reviews <platform> <game> 
 
 # Returns the average score from Metacritic
 
-!reviews ps4 resident evil 7 
+__!reviews ps4 resident evil 7__ 
 
 
 !diablo <Battletag> 
