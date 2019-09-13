@@ -8,17 +8,17 @@ https://discordjs.guide/
 I also used this guide for Blizzards API 
 https://develop.battle.net/documentation/guides/getting-started
 
-To use this bot, you need to set up a bot here:
+To use this bot, you need to set up a bot here
 https://discordapp.com/
 
-Here's the link to the guide for setting up a bot: 
+Here's the link to the guide for setting up a bot
 https://discordjs.guide/preparations/setting-up-a-bot-application.html 
 
 After setting up the bot you need to add it to your server 
-Here's the link to the guide for adding a bot to your server: 
+Here's the link to the guide for adding a bot to your server
 https://discordjs.guide/preparations/adding-your-bot-to-servers.html
 
-You need to provide your own api keys. 
+You need to provide your own api keys
 
 Here's the link to GiantBomb's API  
 https://www.giantbomb.com/api/
