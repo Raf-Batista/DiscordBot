@@ -31,7 +31,7 @@ npm index.js
 
 Once you see 'Ready!' in the console you are all set.
 
-### Commands 
+## Commands 
 
 !search <game> 
 
@@ -42,7 +42,7 @@ Once you see 'Ready!' in the console you are all set.
 
 !reviews <platform> <game> 
 
-# Retuns the average score from Metacritic
+# Returns the average score from Metacritic
 
 !reviews ps4 resident evil 7 
 
