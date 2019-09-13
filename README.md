@@ -5,10 +5,10 @@ The bot takes a command posts a response to the channel
 I used this awesome guide to build the bot 
 https://discordjs.guide/
 
-I also used this guide for Blizzards API 
+I also used this guide for Blizzards API \n
 https://develop.battle.net/documentation/guides/getting-started
 
-To use this bot, you need to set up a bot here
+To use this bot, you need to set up a bot here \n
 https://discordapp.com/
 
 Here's the link to the guide for setting up a bot
