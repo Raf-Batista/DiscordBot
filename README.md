@@ -1,4 +1,4 @@
-### DiscordBot
+# DiscordBot
 A discord bot that fetches Diablo 3 profile data from Blizzard's API, searches for a game with GiantBomb's API, and returns the average score for a game from Metacritic.
 The bot takes a command posts a response to the channel
 
@@ -31,24 +31,24 @@ npm index.js
 
 Once you see 'Ready!' in the console you are all set.
 
-## Commands 
+### Commands 
 
 __!search <game>__ 
 
-# Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game
+### Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game
 
 __!search the witcher 3 wild hunt__ 
 
 
 !reviews <platform> <game> 
 
-# Returns the average score from Metacritic
+### Returns the average score from Metacritic
 
 __!reviews ps4 resident evil 7__ 
 
 
 !diablo <Battletag> 
 
-# Returns the last character played in Diablo 3, including the portrait and info such as Paragon level and elites killed
+### Returns the last character played in Diablo 3, including the portrait and info such as Paragon level and elites killed
 
 !diablo username-113354
