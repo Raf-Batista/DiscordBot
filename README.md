@@ -33,20 +33,20 @@ Once you see 'Ready!' in the console you are all set.
 
 ### Commands 
 
-__!search <game>__ 
+###!search <game> 
 
-### Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game
+__Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game__
 
 Example: !search the witcher 3 wild hunt
 
-__!reviews <platform> <game>__ 
+###!reviews <platform> <game> 
 
 ### Returns the average score from Metacritic
 
 Example: !reviews ps4 resident evil 7
 
-__!diablo <Battletag>__ 
+###!diablo <Battletag> 
 
-### Returns the last character played in Diablo 3, including the portrait and info such as Paragon level and elites killed
+__Returns the last character played in Diablo 3, including the portrait and info such as Paragon level and elites killed
 
 Example:  !diablo username-113354
