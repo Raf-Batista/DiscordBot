@@ -37,18 +37,16 @@ __!search <game>__
 
 ### Searches for a game and posts the returned data to the channel. Returns info on the game including a link to the game
 
-__!search the witcher 3 wild hunt__ 
+Example: !search the witcher 3 wild hunt
 
-
-!reviews <platform> <game> 
+__!reviews <platform> <game>__ 
 
 ### Returns the average score from Metacritic
 
-__!reviews ps4 resident evil 7__ 
+Example: !reviews ps4 resident evil 7
 
-
-!diablo <Battletag> 
+__!diablo <Battletag>__ 
 
 ### Returns the last character played in Diablo 3, including the portrait and info such as Paragon level and elites killed
 
-!diablo username-113354
+Example:  !diablo username-113354
