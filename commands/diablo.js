@@ -8,7 +8,6 @@ module.exports = {
     cooldown: 5,
    execute(message, args) {
     const profile = args[0]
-    const express = require("express");
     
     const credentials = {
       client: {
