@@ -27,7 +27,7 @@ Here's the link to Blizzard'a API
 https://develop.battle.net/
 
 After everything is set up, download the bot, cd into the directory and run 
-npm index.js
+node index.js
 
 Once you see 'Ready!' in the console you are all set.
 
