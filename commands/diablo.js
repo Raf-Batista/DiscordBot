@@ -79,8 +79,8 @@ module.exports = {
                 .addBlankField(true)                
                 message.channel.send({embed});
             })
-            .catch(error => {
-                console.log(error)
+            .catch(() => {
+                message.channel.send('There was an error. Make sure you enter your profile exactly as it appears in the blizzard app')
             })
     }
   }
